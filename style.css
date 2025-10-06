@@ -1,0 +1,51 @@
+/* General styling for a cleaner look */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    background-color: #f8f8f8;
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50; /* Dark Blue/Gray */
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+}
+
+/* 1. ABOUT SECTION: Light Blue/Green Theme */
+.about {
+    background-color: #ecf0f1; /* Light Gray Background */
+    color: #2c3e50;
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 8px;
+    font-family: Georgia, serif; /* Different font */
+}
+
+/* 2. SKILLS SECTION: Green Theme */
+.skills {
+    background-color: #d4edda; /* Light Green */
+    color: #155724; /* Dark Green Text */
+    padding: 20px;
+    margin-bottom: 25px;
+    border-left: 5px solid #28a745;
+}
+
+/* 3. PROJECTS SECTION: Yellow/Orange Theme */
+.projects {
+    background-color: #fff3cd; /* Light Yellow */
+    color: #856404; /* Dark Yellow Text */
+    padding: 20px;
+    margin-bottom: 25px;
+    border: 1px dashed #ffc107;
+    text-align: center;
+}
+
+/* 4. CONTACT SECTION: Purple Theme */
+.contact {
+    background-color: #e0daee; /* Light Purple */
+    color: #4a235a; /* Dark Purple Text */
+    padding: 20px;
+    margin-bottom: 25px;
+    font-size: 1.1em;
+}
